@@ -1,0 +1,4 @@
+3|feats_nasnet_cutConcat_slices_1.npy|1235|klayer_nasnet_cutConcat_slices_1.npy|981|seg_nasnet_cutConcat_slices_1.npy|1234
+0|feats_nasnet_1.npy|1235|klayer_nasnet_1.npy|981|seg_nasnet_1.npy|1234
+1|feats_nasnet_cutConcat_1.npy|1209|klayer_nasnet_cutConcat_1.npy|955|seg_nasnet_cutConcat_1.npy|1208
+2|feats_nasnet_cutadd_1.npy|1125|klayer_nasnet_cutadd_1.npy|853|seg_nasnet_cutadd_1.npy|1124
