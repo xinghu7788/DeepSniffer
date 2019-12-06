@@ -1,0 +1,85 @@
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-03-08 13:30:51.131]  Checkpoint path: /home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc/model.ckpt
+[2018-03-08 13:30:51.131]  Loading training data from: /home/xhu/security/graph_generation/security7/pyFile/training_data/test/train_bk.txt
+[2018-03-08 13:30:51.131]  Using model: first_seg_ctc
+[2018-03-08 13:31:03.820]  Starting new training run
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-03-08 13:32:19.135]  Checkpoint path: /home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc/model.ckpt
+[2018-03-08 13:32:19.135]  Loading training data from: /home/xhu/security/graph_generation/security7/pyFile/training_data/test/train_bk.txt
+[2018-03-08 13:32:19.135]  Using model: first_seg_ctc
+[2018-03-08 13:32:31.893]  Starting new training run
+[2018-03-08 13:32:32.496]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.554]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.623]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.688]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.743]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.808]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.865]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.936]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:32.997]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.051]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.129]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.189]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.246]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.315]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.382]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.438]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.487]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.536]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.586]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.633]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.685]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.734]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.781]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.826]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.877]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.936]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:33.997]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.063]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.134]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.198]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.266]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.333]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.406]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.481]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.557]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.631]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.697]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.767]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.846]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.914]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:34.977]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.049]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.114]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.187]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.259]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.333]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.396]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.462]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.525]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.593]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.668]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.727]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.795]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.869]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:35.937]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.004]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.070]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.138]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.201]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.269]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.339]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.411]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.472]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.543]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.617]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.688]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.758]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.831]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906
+[2018-03-08 13:32:36.900]  Epoch 0/100 [0.466 sec/epoch], avg_train_cost = 40.185, avg_train_ler = 0.706, val_cost = 73.206, val_ler = 0.906, avg_val_cost = 73.206, avg_val_ler = 0.906

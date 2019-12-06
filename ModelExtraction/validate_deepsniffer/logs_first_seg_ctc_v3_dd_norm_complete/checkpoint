@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39"
+all_model_checkpoint_paths: "/home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-35"
+all_model_checkpoint_paths: "/home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-36"
+all_model_checkpoint_paths: "/home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-37"
+all_model_checkpoint_paths: "/home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-38"
+all_model_checkpoint_paths: "/home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39"

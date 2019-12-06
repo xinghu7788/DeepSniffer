@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc_v3/model.ckpt-83"
+all_model_checkpoint_paths: "/home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc_v3/model.ckpt-79"
+all_model_checkpoint_paths: "/home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc_v3/model.ckpt-80"
+all_model_checkpoint_paths: "/home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc_v3/model.ckpt-81"
+all_model_checkpoint_paths: "/home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc_v3/model.ckpt-82"
+all_model_checkpoint_paths: "/home/xhu/security/graph_generation/security7/pyFile/logs_first_seg_ctc_v3/model.ckpt-83"

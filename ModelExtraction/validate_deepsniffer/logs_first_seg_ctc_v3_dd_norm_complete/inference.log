@@ -1,0 +1,1026 @@
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:29:16.424]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-25 22:29:16.424]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:30:20.831]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-25 22:30:20.831]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:30:49.750]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-25 22:30:49.750]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:31:28.825]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-25 22:31:28.825]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:36:13.955]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-25 22:36:13.955]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:37:54.919]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-25 22:37:54.919]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:19:58.006]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:19:58.006]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:20:12.801]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:20:12.801]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:20:32.704]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:20:32.704]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:20:34.653]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2018-07-26 00:20:35.124]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 81.943, val_ler = 0.231, avg_val_cost = 81.943, avg_val_ler = 0.231
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:27:54.925]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:27:54.925]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:27:56.818]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:30:05.493]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:30:05.494]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:30:07.372]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:30:31.050]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:30:31.050]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:30:32.809]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:31:00.744]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:31:00.744]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:31:02.839]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:32:08.168]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:32:08.168]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:32:09.907]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:32:51.985]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:32:51.985]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:32:53.829]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:34:20.498]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:34:20.499]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:34:22.301]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2018-07-26 00:34:24.572]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3731.722, val_ler = 0.293, avg_val_cost = 3731.722, avg_val_ler = 0.293
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:37:15.135]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:37:15.135]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:37:16.929]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:37:19.202]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3543.917, val_ler = 0.293, avg_val_cost = 3543.917, avg_val_ler = 0.293
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:39:25.395]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:39:25.395]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:39:27.190]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:39:27.697]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 364.897, val_ler = 0.322, avg_val_cost = 364.897, avg_val_ler = 0.322
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:40:01.714]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:40:01.714]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:40:03.470]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:40:05.061]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 2619.581, val_ler = 0.299, avg_val_cost = 2619.581, avg_val_ler = 0.299
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:40:15.009]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:40:15.009]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:40:16.816]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:40:17.257]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 126.655, val_ler = 0.286, avg_val_cost = 126.655, avg_val_ler = 0.286
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:40:21.684]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:40:21.684]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:40:23.473]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:40:25.813]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3493.394, val_ler = 0.293, avg_val_cost = 3493.394, avg_val_ler = 0.293
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:40:29.444]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:40:29.445]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:40:31.207]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:40:31.597]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 83.953, val_ler = 0.310, avg_val_cost = 83.953, avg_val_ler = 0.310
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:40:35.570]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:40:35.570]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:40:37.391]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:40:37.730]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 15.416, val_ler = 0.118, avg_val_cost = 15.416, avg_val_ler = 0.118
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:41:08.631]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:41:08.631]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:41:10.479]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:41:12.792]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3248.455, val_ler = 0.290, avg_val_cost = 3248.455, avg_val_ler = 0.290
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:41:16.703]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:41:16.703]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:41:18.520]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:41:18.909]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 35.102, val_ler = 0.269, avg_val_cost = 35.102, avg_val_ler = 0.269
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 00:41:26.381]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 00:41:26.381]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 00:41:28.276]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 00:41:28.787]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 116.415, val_ler = 0.305, avg_val_cost = 116.415, avg_val_ler = 0.305
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:25:43.952]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:25:43.953]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:25:45.798]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:25:46.141]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 79.813, val_ler = 0.267, avg_val_cost = 79.813, avg_val_ler = 0.267
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:38:10.721]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:38:10.721]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:38:12.570]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:38:13.694]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1523.522, val_ler = 0.187, avg_val_cost = 1523.522, avg_val_ler = 0.187
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:38:45.314]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:38:45.314]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:38:47.112]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:38:47.478]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 71.856, val_ler = 0.132, avg_val_cost = 71.856, avg_val_ler = 0.132
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:38:59.519]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:38:59.519]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:39:01.345]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:39:01.876]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 220.501, val_ler = 0.170, avg_val_cost = 220.501, avg_val_ler = 0.170
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:39:07.009]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:39:07.009]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:39:08.845]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:39:09.218]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 108.431, val_ler = 0.188, avg_val_cost = 108.431, avg_val_ler = 0.188
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:39:17.570]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:39:17.570]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:39:19.345]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:39:19.911]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 684.776, val_ler = 0.224, avg_val_cost = 684.776, avg_val_ler = 0.224
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:43:31.364]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:43:31.364]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:43:33.040]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:43:34.548]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1931.047, val_ler = 0.194, avg_val_cost = 1931.047, avg_val_ler = 0.194
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:57:13.291]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:57:13.291]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:57:15.035]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:57:16.428]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1975.540, val_ler = 0.203, avg_val_cost = 1975.540, avg_val_ler = 0.203
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 01:59:12.151]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 01:59:12.151]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 01:59:13.935]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 01:59:14.396]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 147.521, val_ler = 0.126, avg_val_cost = 147.521, avg_val_ler = 0.126
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 02:06:25.402]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 02:06:25.402]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 02:06:27.168]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 02:06:27.668]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 191.130, val_ler = 0.160, avg_val_cost = 191.130, avg_val_ler = 0.160
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 02:06:57.197]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 02:06:57.197]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 02:06:59.054]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 02:06:59.398]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 71.754, val_ler = 0.250, avg_val_cost = 71.754, avg_val_ler = 0.250
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 02:08:19.216]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 02:08:19.216]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 02:08:20.946]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 02:08:21.492]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 554.659, val_ler = 0.242, avg_val_cost = 554.659, avg_val_ler = 0.242
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 02:09:37.941]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 02:09:37.941]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 02:09:39.747]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 02:09:40.100]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 56.780, val_ler = 0.185, avg_val_cost = 56.780, avg_val_ler = 0.185
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-26 02:28:04.295]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-07-26 02:28:04.295]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-07-26 02:28:06.073]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-07-26 02:28:06.565]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 2.612, val_ler = 0.024, avg_val_cost = 2.612, avg_val_ler = 0.024
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:13:07.007]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:13:07.007]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:13:28.290]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:13:28.290]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-03 22:13:33.372]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-35
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:16:47.821]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:16:47.821]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:21:25.175]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:21:25.175]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-03 22:21:27.140]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:23:18.030]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:23:18.030]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-03 22:23:20.132]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:37:44.838]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:37:44.838]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-03 22:37:46.836]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-8
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-03 22:42:07.132]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-03 22:42:07.132]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-03 22:42:09.084]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-53
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:38:09.826]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:38:09.826]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:38:15.087]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:38:15.596]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 192.819, val_ler = 0.144, avg_val_cost = 192.819, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:38:50.911]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:38:50.911]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:38:56.246]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:38:56.760]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 178.735, val_ler = 0.144, avg_val_cost = 178.735, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:39:13.642]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:39:13.642]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:39:18.756]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:39:19.187]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1.338, val_ler = 0.071, avg_val_cost = 1.338, avg_val_ler = 0.071
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:39:39.301]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:39:39.301]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:39:44.308]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:39:44.746]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 102.057, val_ler = 0.173, avg_val_cost = 102.057, avg_val_ler = 0.173
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:40:57.518]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:40:57.518]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:41:02.541]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:41:03.502]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1259.321, val_ler = 0.183, avg_val_cost = 1259.321, avg_val_ler = 0.183
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:41:07.685]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:41:07.685]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:41:12.844]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:41:13.252]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 71.506, val_ler = 0.192, avg_val_cost = 71.506, avg_val_ler = 0.192
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:41:22.189]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:41:22.189]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:41:27.459]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:41:27.866]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 38.949, val_ler = 0.429, avg_val_cost = 38.949, avg_val_ler = 0.429
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:41:39.132]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:41:39.132]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:41:44.090]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:41:44.804]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 940.749, val_ler = 0.188, avg_val_cost = 940.749, avg_val_ler = 0.188
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:41:49.869]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:41:49.869]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:41:54.870]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:41:56.221]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1847.102, val_ler = 0.170, avg_val_cost = 1847.102, avg_val_ler = 0.170
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:42:00.585]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:42:00.585]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:42:05.549]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:42:07.208]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 2064.315, val_ler = 0.165, avg_val_cost = 2064.315, avg_val_ler = 0.165
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:46:41.483]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:46:41.483]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:46:46.625]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:46:47.074]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 31.035, val_ler = 0.192, avg_val_cost = 31.035, avg_val_ler = 0.192
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-04 00:48:00.203]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-04 00:48:00.203]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-04 00:48:04.270]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-04 00:48:04.651]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 203.578, val_ler = 0.162, avg_val_cost = 203.578, avg_val_ler = 0.162
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-05 00:50:50.889]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-05 00:50:50.889]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-05 00:50:56.394]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-05 00:50:57.596]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1336.738, val_ler = 0.142, avg_val_cost = 1336.738, avg_val_ler = 0.142
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-08-05 01:25:08.988]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2018-08-05 01:25:08.988]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2018-08-05 01:25:14.427]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2018-08-05 01:25:15.075]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 203.762, val_ler = 0.203, avg_val_cost = 203.762, avg_val_ler = 0.203
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:21:13.969]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:21:13.970]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:21:17.495]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-02-28 05:21:22.324]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 1519.616, val_ler = 0.213, avg_val_cost = 1519.616, avg_val_ler = 0.213
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:22:07.164]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:22:07.164]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:22:09.821]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-02-28 05:22:10.425]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 42.624, val_ler = 0.167, avg_val_cost = 42.624, avg_val_ler = 0.167
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:23:04.215]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:23:04.215]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:23:35.145]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:23:35.145]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:23:37.908]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:24:00.174]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:24:00.174]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:24:02.605]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:24:03.898]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 4314.142, val_ler = 0.310, avg_val_cost = 4314.142, avg_val_ler = 0.310
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:32:33.589]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:32:33.589]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:32:36.203]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:33:42.971]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:33:42.972]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:33:45.667]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:33:46.462]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 64.921, val_ler = 0.524, avg_val_cost = 64.921, avg_val_ler = 0.524
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:34:11.174]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:34:11.174]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:34:13.661]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:34:14.973]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 4406.809, val_ler = 0.316, avg_val_cost = 4406.809, avg_val_ler = 0.316
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:36:05.227]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:36:05.227]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:36:07.929]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:36:08.785]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 199.113, val_ler = 0.198, avg_val_cost = 199.113, avg_val_ler = 0.198
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:36:29.931]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:36:29.931]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:36:32.612]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:36:33.189]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 77.550, val_ler = 0.200, avg_val_cost = 77.550, avg_val_ler = 0.200
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:36:38.980]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:36:38.980]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:36:41.574]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:36:42.412]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 172.459, val_ler = 0.302, avg_val_cost = 172.459, avg_val_ler = 0.302
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:37:37.434]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:37:37.434]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:37:39.867]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:37:41.787]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 6642.385, val_ler = 0.292, avg_val_cost = 6642.385, avg_val_ler = 0.292
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:39:04.600]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:39:04.600]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:39:07.211]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:39:08.081]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 256.771, val_ler = 0.169, avg_val_cost = 256.771, avg_val_ler = 0.169
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-02-28 05:46:29.264]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-02-28 05:46:29.264]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-02-28 05:46:31.703]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-34
+[2019-02-28 05:46:32.470]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 119.464, val_ler = 0.148, avg_val_cost = 119.464, avg_val_ler = 0.148
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:37:13.724]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:37:13.725]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:37:50.790]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:37:50.790]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:37:52.233]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-12-04 09:37:52.365]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 335.043, val_ler = 0.267, avg_val_cost = 335.043, avg_val_ler = 0.267
+[2019-12-04 09:37:52.404]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 282.036, val_ler = 0.133, avg_val_cost = 308.539, avg_val_ler = 0.200
+[2019-12-04 09:37:52.442]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 293.790, val_ler = 0.183, avg_val_cost = 303.623, avg_val_ler = 0.194
+[2019-12-04 09:37:52.479]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 168.762, val_ler = 0.083, avg_val_cost = 269.908, avg_val_ler = 0.167
+[2019-12-04 09:37:52.516]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 176.483, val_ler = 0.100, avg_val_cost = 251.223, avg_val_ler = 0.153
+[2019-12-04 09:37:52.550]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 203.588, val_ler = 0.167, avg_val_cost = 243.283, avg_val_ler = 0.156
+[2019-12-04 09:37:52.585]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 168.217, val_ler = 0.133, avg_val_cost = 232.560, avg_val_ler = 0.152
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:40:54.037]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:40:54.037]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:40:55.458]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:47:51.252]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:47:51.252]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:47:52.696]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:50:22.822]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:50:22.822]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:50:24.242]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:51:38.548]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:51:38.548]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:51:39.974]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:53:10.417]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:53:10.417]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:53:11.870]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:54:39.383]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:54:39.383]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:54:40.813]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:56:14.398]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:56:14.398]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:56:15.838]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:58:14.461]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:58:14.461]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:58:15.909]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:59:19.009]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:59:19.009]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:59:20.456]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 09:59:56.313]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 09:59:56.313]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 09:59:57.769]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-12-04 09:59:57.922]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 362.785, val_ler = 0.225, avg_val_cost = 362.785, avg_val_ler = 0.225
+[2019-12-04 09:59:57.956]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 306.474, val_ler = 0.183, avg_val_cost = 334.630, avg_val_ler = 0.204
+[2019-12-04 09:59:57.992]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 292.256, val_ler = 0.158, avg_val_cost = 320.505, avg_val_ler = 0.189
+[2019-12-04 09:59:58.026]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 211.169, val_ler = 0.158, avg_val_cost = 293.171, avg_val_ler = 0.181
+[2019-12-04 09:59:58.060]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 227.286, val_ler = 0.142, avg_val_cost = 279.994, avg_val_ler = 0.173
+[2019-12-04 09:59:58.096]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 265.235, val_ler = 0.208, avg_val_cost = 277.534, avg_val_ler = 0.179
+[2019-12-04 09:59:58.129]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 174.956, val_ler = 0.125, avg_val_cost = 262.880, avg_val_ler = 0.171
+[2019-12-04 09:59:58.167]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 194.635, val_ler = 0.125, avg_val_cost = 254.350, avg_val_ler = 0.166
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 10:03:09.711]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 10:03:09.711]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 10:03:11.164]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-12-04 10:03:11.320]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 335.043, val_ler = 0.267, avg_val_cost = 335.043, avg_val_ler = 0.267
+[2019-12-04 10:03:11.360]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 282.036, val_ler = 0.133, avg_val_cost = 308.539, avg_val_ler = 0.200
+[2019-12-04 10:03:11.397]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 293.790, val_ler = 0.183, avg_val_cost = 303.623, avg_val_ler = 0.194
+[2019-12-04 10:03:11.434]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 168.762, val_ler = 0.083, avg_val_cost = 269.908, avg_val_ler = 0.167
+[2019-12-04 10:03:11.468]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 176.483, val_ler = 0.100, avg_val_cost = 251.223, avg_val_ler = 0.153
+[2019-12-04 10:03:11.501]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 203.588, val_ler = 0.167, avg_val_cost = 243.283, avg_val_ler = 0.156
+[2019-12-04 10:03:11.532]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 168.217, val_ler = 0.133, avg_val_cost = 232.560, avg_val_ler = 0.152
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:00:19.472]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:00:19.472]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:00:20.905]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-12-04 11:00:21.032]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 362.785, val_ler = 0.225, avg_val_cost = 362.785, avg_val_ler = 0.225
+[2019-12-04 11:00:21.068]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 306.474, val_ler = 0.183, avg_val_cost = 334.630, avg_val_ler = 0.204
+[2019-12-04 11:00:21.103]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 292.256, val_ler = 0.158, avg_val_cost = 320.505, avg_val_ler = 0.189
+[2019-12-04 11:00:21.138]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 211.169, val_ler = 0.158, avg_val_cost = 293.171, avg_val_ler = 0.181
+[2019-12-04 11:00:21.171]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 227.286, val_ler = 0.142, avg_val_cost = 279.994, avg_val_ler = 0.173
+[2019-12-04 11:00:21.207]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 265.235, val_ler = 0.208, avg_val_cost = 277.534, avg_val_ler = 0.179
+[2019-12-04 11:00:21.241]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 174.956, val_ler = 0.125, avg_val_cost = 262.880, avg_val_ler = 0.171
+[2019-12-04 11:00:21.276]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 194.635, val_ler = 0.125, avg_val_cost = 254.350, avg_val_ler = 0.166
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:01:35.699]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:01:35.699]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:01:37.132]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-12-04 11:01:37.284]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 362.785, val_ler = 0.225, avg_val_cost = 362.785, avg_val_ler = 0.225
+[2019-12-04 11:01:37.323]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 306.474, val_ler = 0.183, avg_val_cost = 334.630, avg_val_ler = 0.204
+[2019-12-04 11:01:37.358]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 292.256, val_ler = 0.158, avg_val_cost = 320.505, avg_val_ler = 0.189
+[2019-12-04 11:01:37.393]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 211.169, val_ler = 0.158, avg_val_cost = 293.171, avg_val_ler = 0.181
+[2019-12-04 11:01:37.427]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 227.286, val_ler = 0.142, avg_val_cost = 279.994, avg_val_ler = 0.173
+[2019-12-04 11:01:37.461]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 265.235, val_ler = 0.208, avg_val_cost = 277.534, avg_val_ler = 0.179
+[2019-12-04 11:01:37.496]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 174.956, val_ler = 0.125, avg_val_cost = 262.880, avg_val_ler = 0.171
+[2019-12-04 11:01:37.531]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 194.635, val_ler = 0.125, avg_val_cost = 254.350, avg_val_ler = 0.166
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:11:29.477]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:11:29.477]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:11:30.900]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-54
+[2019-12-04 11:11:31.030]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 167.272, val_ler = 0.217, avg_val_cost = 167.272, avg_val_ler = 0.217
+[2019-12-04 11:11:31.069]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 135.252, val_ler = 0.208, avg_val_cost = 151.262, avg_val_ler = 0.212
+[2019-12-04 11:11:31.105]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 131.461, val_ler = 0.208, avg_val_cost = 144.662, avg_val_ler = 0.211
+[2019-12-04 11:11:31.143]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 137.523, val_ler = 0.167, avg_val_cost = 142.877, avg_val_ler = 0.200
+[2019-12-04 11:11:31.175]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 118.140, val_ler = 0.150, avg_val_cost = 137.930, avg_val_ler = 0.190
+[2019-12-04 11:11:31.208]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 111.180, val_ler = 0.167, avg_val_cost = 133.471, avg_val_ler = 0.186
+[2019-12-04 11:11:31.240]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 109.257, val_ler = 0.158, avg_val_cost = 130.012, avg_val_ler = 0.182
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:20:34.345]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:20:34.345]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:20:35.769]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:20:35.919]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 163.118, val_ler = 0.217, avg_val_cost = 163.118, avg_val_ler = 0.217
+[2019-12-04 11:20:35.960]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 142.300, val_ler = 0.175, avg_val_cost = 152.709, avg_val_ler = 0.196
+[2019-12-04 11:20:35.997]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 114.872, val_ler = 0.183, avg_val_cost = 140.097, avg_val_ler = 0.192
+[2019-12-04 11:20:36.035]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 104.203, val_ler = 0.150, avg_val_cost = 131.124, avg_val_ler = 0.181
+[2019-12-04 11:20:36.073]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 69.152, val_ler = 0.083, avg_val_cost = 118.729, avg_val_ler = 0.162
+[2019-12-04 11:20:36.109]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 82.100, val_ler = 0.150, avg_val_cost = 112.624, avg_val_ler = 0.160
+[2019-12-04 11:20:36.146]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 86.146, val_ler = 0.142, avg_val_cost = 108.842, avg_val_ler = 0.157
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:22:23.743]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:22:23.743]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:22:25.158]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:22:25.281]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 153.016, val_ler = 0.230, avg_val_cost = 153.016, avg_val_ler = 0.230
+[2019-12-04 11:22:25.313]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 83.527, val_ler = 0.150, avg_val_cost = 118.272, avg_val_ler = 0.190
+[2019-12-04 11:22:25.343]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 103.750, val_ler = 0.170, avg_val_cost = 113.431, avg_val_ler = 0.183
+[2019-12-04 11:22:25.373]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 115.287, val_ler = 0.200, avg_val_cost = 113.895, avg_val_ler = 0.188
+[2019-12-04 11:22:25.402]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 39.507, val_ler = 0.070, avg_val_cost = 99.017, avg_val_ler = 0.164
+[2019-12-04 11:22:25.428]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 59.244, val_ler = 0.100, avg_val_cost = 92.388, avg_val_ler = 0.153
+[2019-12-04 11:22:25.454]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 73.137, val_ler = 0.170, avg_val_cost = 89.638, avg_val_ler = 0.156
+[2019-12-04 11:22:25.480]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.929, val_ler = 0.120, avg_val_cost = 85.675, avg_val_ler = 0.151
+[2019-12-04 11:22:25.509]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 67.991, val_ler = 0.120, avg_val_cost = 83.710, avg_val_ler = 0.148
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:23:34.644]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:23:34.644]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:23:36.093]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:23:36.209]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-04 11:23:36.234]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-04 11:23:36.258]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-04 11:23:36.280]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-04 11:23:36.302]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-04 11:23:36.324]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-04 11:23:36.346]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-04 11:23:36.367]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-04 11:23:36.394]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-04 11:23:36.420]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-04 11:23:36.443]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:24:46.023]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:24:46.024]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:24:47.443]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:24:47.548]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 78.056, val_ler = 0.220, avg_val_cost = 78.056, avg_val_ler = 0.220
+[2019-12-04 11:24:47.567]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 66.148, val_ler = 0.240, avg_val_cost = 72.102, avg_val_ler = 0.230
+[2019-12-04 11:24:47.584]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 39.231, val_ler = 0.140, avg_val_cost = 61.145, avg_val_ler = 0.200
+[2019-12-04 11:24:47.601]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 40.463, val_ler = 0.120, avg_val_cost = 55.975, avg_val_ler = 0.180
+[2019-12-04 11:24:47.618]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 50.262, val_ler = 0.160, avg_val_cost = 54.832, avg_val_ler = 0.176
+[2019-12-04 11:24:47.634]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 61.856, val_ler = 0.180, avg_val_cost = 56.003, avg_val_ler = 0.177
+[2019-12-04 11:24:47.651]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 43.407, val_ler = 0.180, avg_val_cost = 54.203, avg_val_ler = 0.177
+[2019-12-04 11:24:47.668]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 77.215, val_ler = 0.300, avg_val_cost = 57.080, avg_val_ler = 0.193
+[2019-12-04 11:24:47.685]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 21.354, val_ler = 0.080, avg_val_cost = 53.110, avg_val_ler = 0.180
+[2019-12-04 11:24:47.701]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 20.036, val_ler = 0.120, avg_val_cost = 49.803, avg_val_ler = 0.174
+[2019-12-04 11:24:47.718]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 35.054, val_ler = 0.120, avg_val_cost = 48.462, avg_val_ler = 0.169
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:25:17.174]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:25:17.174]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:25:18.578]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:25:18.711]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 192.166, val_ler = 0.193, avg_val_cost = 192.166, avg_val_ler = 0.193
+[2019-12-04 11:25:18.755]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 134.315, val_ler = 0.153, avg_val_cost = 163.240, avg_val_ler = 0.173
+[2019-12-04 11:25:18.798]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 133.701, val_ler = 0.160, avg_val_cost = 153.394, avg_val_ler = 0.169
+[2019-12-04 11:25:18.841]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 69.920, val_ler = 0.093, avg_val_cost = 132.525, avg_val_ler = 0.150
+[2019-12-04 11:25:18.882]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 105.992, val_ler = 0.160, avg_val_cost = 127.219, avg_val_ler = 0.152
+[2019-12-04 11:25:18.921]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 94.370, val_ler = 0.133, avg_val_cost = 121.744, avg_val_ler = 0.149
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:26:04.823]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:26:04.823]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:26:06.285]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:26:06.406]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 147.934, val_ler = 0.233, avg_val_cost = 147.934, avg_val_ler = 0.233
+[2019-12-04 11:26:06.437]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 78.381, val_ler = 0.156, avg_val_cost = 113.158, avg_val_ler = 0.194
+[2019-12-04 11:26:06.465]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 79.506, val_ler = 0.156, avg_val_cost = 101.941, avg_val_ler = 0.181
+[2019-12-04 11:26:06.494]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.523, val_ler = 0.156, avg_val_cost = 93.586, avg_val_ler = 0.175
+[2019-12-04 11:26:06.522]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 89.193, val_ler = 0.178, avg_val_cost = 92.707, avg_val_ler = 0.176
+[2019-12-04 11:26:06.549]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 37.789, val_ler = 0.100, avg_val_cost = 83.554, avg_val_ler = 0.163
+[2019-12-04 11:26:06.575]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 45.140, val_ler = 0.111, avg_val_cost = 78.067, avg_val_ler = 0.156
+[2019-12-04 11:26:06.602]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 84.919, val_ler = 0.178, avg_val_cost = 78.923, avg_val_ler = 0.158
+[2019-12-04 11:26:06.628]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 65.687, val_ler = 0.122, avg_val_cost = 77.452, avg_val_ler = 0.154
+[2019-12-04 11:26:06.655]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 67.937, val_ler = 0.133, avg_val_cost = 76.501, avg_val_ler = 0.152
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:26:31.857]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:26:31.857]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:26:33.307]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:26:33.423]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 121.656, val_ler = 0.227, avg_val_cost = 121.656, avg_val_ler = 0.227
+[2019-12-04 11:26:33.447]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 78.694, val_ler = 0.173, avg_val_cost = 100.175, avg_val_ler = 0.200
+[2019-12-04 11:26:33.467]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 73.896, val_ler = 0.147, avg_val_cost = 91.415, avg_val_ler = 0.182
+[2019-12-04 11:26:33.488]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 60.313, val_ler = 0.160, avg_val_cost = 83.640, avg_val_ler = 0.177
+[2019-12-04 11:26:33.508]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 71.921, val_ler = 0.173, avg_val_cost = 81.296, avg_val_ler = 0.176
+[2019-12-04 11:26:33.530]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 67.032, val_ler = 0.147, avg_val_cost = 78.919, avg_val_ler = 0.171
+[2019-12-04 11:26:33.550]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 35.554, val_ler = 0.107, avg_val_cost = 72.724, avg_val_ler = 0.162
+[2019-12-04 11:26:33.570]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 38.620, val_ler = 0.080, avg_val_cost = 68.461, avg_val_ler = 0.152
+[2019-12-04 11:26:33.589]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 33.672, val_ler = 0.093, avg_val_cost = 64.595, avg_val_ler = 0.145
+[2019-12-04 11:26:33.609]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 72.691, val_ler = 0.187, avg_val_cost = 65.405, avg_val_ler = 0.149
+[2019-12-04 11:26:33.629]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 52.578, val_ler = 0.133, avg_val_cost = 64.239, avg_val_ler = 0.148
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:27:12.415]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 11:27:12.415]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 11:27:13.868]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 11:27:13.983]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 114.129, val_ler = 0.246, avg_val_cost = 114.129, avg_val_ler = 0.246
+[2019-12-04 11:27:14.006]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 64.226, val_ler = 0.185, avg_val_cost = 89.178, avg_val_ler = 0.215
+[2019-12-04 11:27:14.026]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 61.890, val_ler = 0.154, avg_val_cost = 80.082, avg_val_ler = 0.195
+[2019-12-04 11:27:14.047]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 63.455, val_ler = 0.169, avg_val_cost = 75.925, avg_val_ler = 0.188
+[2019-12-04 11:27:14.067]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 62.565, val_ler = 0.169, avg_val_cost = 73.253, avg_val_ler = 0.185
+[2019-12-04 11:27:14.085]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.413, val_ler = 0.185, avg_val_cost = 73.780, avg_val_ler = 0.185
+[2019-12-04 11:27:14.105]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 39.533, val_ler = 0.108, avg_val_cost = 68.887, avg_val_ler = 0.174
+[2019-12-04 11:27:14.124]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 41.387, val_ler = 0.108, avg_val_cost = 65.450, avg_val_ler = 0.165
+[2019-12-04 11:27:14.144]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 25.007, val_ler = 0.062, avg_val_cost = 60.956, avg_val_ler = 0.154
+[2019-12-04 11:27:14.164]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 41.542, val_ler = 0.092, avg_val_cost = 59.015, avg_val_ler = 0.148
+[2019-12-04 11:27:14.185]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 61.566, val_ler = 0.200, avg_val_cost = 59.247, avg_val_ler = 0.152
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:20:08.925]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:20:08.926]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:20:10.345]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:20:27.927]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:20:27.927]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:20:29.406]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:25:15.813]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:25:15.813]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:25:17.240]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 14:25:17.343]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 112.220, val_ler = 0.279, avg_val_cost = 112.220, avg_val_ler = 0.279
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:27:28.975]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:27:28.975]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:27:30.398]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:28:46.977]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:28:46.977]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:28:48.433]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 14:28:48.537]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 65.657, val_ler = 0.282, avg_val_cost = 65.657, avg_val_ler = 0.282
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:29:32.109]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:29:32.109]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:29:33.554]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 14:29:33.658]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 41.082, val_ler = 0.214, avg_val_cost = 41.082, avg_val_ler = 0.214
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:33:18.980]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:33:18.980]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:33:20.426]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 14:33:20.540]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 114.129, val_ler = 0.246, avg_val_cost = 114.129, avg_val_ler = 0.246
+[2019-12-04 14:33:20.563]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 64.226, val_ler = 0.185, avg_val_cost = 89.178, avg_val_ler = 0.215
+[2019-12-04 14:33:20.584]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 61.890, val_ler = 0.154, avg_val_cost = 80.082, avg_val_ler = 0.195
+[2019-12-04 14:33:20.606]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 63.455, val_ler = 0.169, avg_val_cost = 75.925, avg_val_ler = 0.188
+[2019-12-04 14:33:20.626]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 62.565, val_ler = 0.169, avg_val_cost = 73.253, avg_val_ler = 0.185
+[2019-12-04 14:33:20.647]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.413, val_ler = 0.185, avg_val_cost = 73.780, avg_val_ler = 0.185
+[2019-12-04 14:33:20.667]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 39.533, val_ler = 0.108, avg_val_cost = 68.887, avg_val_ler = 0.174
+[2019-12-04 14:33:20.689]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 41.387, val_ler = 0.108, avg_val_cost = 65.450, avg_val_ler = 0.165
+[2019-12-04 14:33:20.708]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 25.007, val_ler = 0.062, avg_val_cost = 60.956, avg_val_ler = 0.154
+[2019-12-04 14:33:20.728]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 41.542, val_ler = 0.092, avg_val_cost = 59.015, avg_val_ler = 0.148
+[2019-12-04 14:33:20.748]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 61.566, val_ler = 0.200, avg_val_cost = 59.247, avg_val_ler = 0.152
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 14:34:36.118]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-04 14:34:36.118]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-04 14:34:37.561]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-04 14:34:37.679]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-04 14:34:37.705]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-04 14:34:37.730]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-04 14:34:37.753]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-04 14:34:37.777]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-04 14:34:37.799]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-04 14:34:37.822]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-04 14:34:37.847]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-04 14:34:37.871]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-04 14:34:37.894]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-04 14:34:37.918]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 15:34:09.089]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 15:34:09.089]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-05 15:34:10.878]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 15:45:18.338]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 15:45:18.338]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-05 15:45:19.760]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-05 15:45:19.954]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-05 15:45:19.982]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-05 15:45:20.008]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-05 15:45:20.034]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-05 15:45:20.061]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-05 15:45:20.087]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-05 15:45:20.112]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-05 15:45:20.135]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-05 15:45:20.158]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-05 15:45:20.180]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-05 15:45:20.201]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 15:47:27.201]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 15:47:27.202]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-05 15:47:28.643]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-05 15:47:28.762]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-05 15:47:28.790]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-05 15:47:28.815]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-05 15:47:28.839]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-05 15:47:28.863]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-05 15:47:28.885]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-05 15:47:28.911]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-05 15:47:28.935]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-05 15:47:28.960]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-05 15:47:28.984]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-05 15:47:29.009]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 15:50:20.437]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 15:50:20.437]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-05 15:50:21.878]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-05 15:50:21.995]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-05 15:50:22.020]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-05 15:50:22.044]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-05 15:50:22.067]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-05 15:50:22.091]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-05 15:50:22.115]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-05 15:50:22.138]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-05 15:50:22.162]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-05 15:50:22.187]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-05 15:50:22.212]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-05 15:50:22.236]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 15:52:58.088]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 15:52:58.088]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-05 15:52:59.510]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-05 15:52:59.625]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-05 15:52:59.650]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-05 15:52:59.674]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-05 15:52:59.695]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-05 15:52:59.718]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-05 15:52:59.740]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-05 15:52:59.764]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-05 15:52:59.786]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-05 15:52:59.809]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-05 15:52:59.831]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-05 15:52:59.854]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 16:11:52.115]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 16:11:52.115]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-05 16:11:53.575]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 16:13:03.065]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-05 16:13:03.065]  Using model: first_seg_ctc_v3_dd_norm_complete
