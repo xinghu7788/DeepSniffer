@@ -1,1 +1,0 @@
-conv relu pooling conv relu pooling conv relu conv relu pooling conv relu conv relu pooling conv relu conv relu pooling fc relu droptout fc relu droptout fc

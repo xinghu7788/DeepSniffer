@@ -193,10 +193,6 @@ def run_ctc(log_dir, args):
                     val_cost_window.average, val_ler_window.average))
 
 
-            if step % args.checkpoint_interval == 0:
-                log('Saving checkpoint to: %s-%d' % (checkpoint_path, step))
-                saver.save(sess, checkpoint_path, global_step=step)
-
             # END OF TRAINING
 
 

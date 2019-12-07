@@ -1,0 +1,222 @@
+Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer_bk/logs_first_seg_ctc_v3/model.ckpt
+Using model: first_seg_ctc_v3
+
+WARNING: The TensorFlow contrib module will not be included in TensorFlow 2.0.
+For more information, please see:
+  * https://github.com/tensorflow/community/blob/master/rfcs/20180907-contrib-sunset.md
+  * https://github.com/tensorflow/addons
+If you depend on functionality not listed there, please file an issue.
+
+Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer_bk/logs_first_seg_ctc_v3/model.ckpt-83
+label sequence
+['conv']
+label sequence
+['conv', 'bn']
+label sequence
+['conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'pooling']
+label sequence
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'pooling', 'fc']
+['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'pooling', 'fc']
+(array([[ 0,  0],
+       [ 0,  1],
+       [ 0,  2],
+       [ 0,  3],
+       [ 0,  4],
+       [ 0,  5],
+       [ 0,  6],
+       [ 0,  7],
+       [ 0,  8],
+       [ 0,  9],
+       [ 0, 10],
+       [ 0, 11],
+       [ 0, 12],
+       [ 0, 13],
+       [ 0, 14],
+       [ 0, 15],
+       [ 0, 16],
+       [ 0, 17],
+       [ 0, 18],
+       [ 0, 19],
+       [ 0, 20],
+       [ 0, 21],
+       [ 0, 22],
+       [ 0, 23],
+       [ 0, 24],
+       [ 0, 25],
+       [ 0, 26],
+       [ 0, 27],
+       [ 0, 28],
+       [ 0, 29],
+       [ 0, 30],
+       [ 0, 31],
+       [ 0, 32],
+       [ 0, 33],
+       [ 0, 34],
+       [ 0, 35],
+       [ 0, 36],
+       [ 0, 37],
+       [ 0, 38],
+       [ 0, 39],
+       [ 0, 40],
+       [ 0, 41],
+       [ 0, 42],
+       [ 0, 43],
+       [ 0, 44],
+       [ 0, 45],
+       [ 0, 46],
+       [ 0, 47],
+       [ 0, 48],
+       [ 0, 49],
+       [ 0, 50],
+       [ 0, 51],
+       [ 0, 52],
+       [ 0, 53],
+       [ 0, 54],
+       [ 0, 55],
+       [ 0, 56],
+       [ 0, 57],
+       [ 0, 58],
+       [ 0, 59],
+       [ 0, 60],
+       [ 0, 61],
+       [ 0, 62],
+       [ 0, 63],
+       [ 0, 64],
+       [ 0, 65],
+       [ 0, 66],
+       [ 0, 67]]), array([0, 3, 5, 2, 0, 3, 5, 0, 3, 7, 5, 0, 3, 5, 0, 3, 7, 5, 0, 3, 5, 0,
+       3, 0, 3, 7, 5, 0, 3, 5, 0, 3, 7, 5, 0, 3, 5, 0, 3, 0, 3, 7, 5, 0,
+       3, 5, 0, 3, 7, 5, 0, 3, 5, 0, 3, 0, 3, 7, 5, 0, 3, 5, 0, 3, 7, 5,
+       2, 1], dtype=int32), array([ 1, 68]))
+for Sample ../dataset/typicalModels/resnet/resnet_sample18.log
+Original val: ['conv', 'bn', 'relu', 'pooling', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'conv', 'bn', 'add', 'relu', 'conv', 'bn', 'relu', 'conv', 'bn', 'add', 'relu', 'pooling', 'fc']
+Decoded val: conv relu pooling conv bn relu conv bn add relu conv bn relu conv bn add relu conv bn relu conv bn conv bn add relu conv bn relu conv bn add relu conv bn relu conv bn conv bn add relu conv bn relu conv bn add relu conv bn relu conv bn conv bn add relu conv bn relu conv bn relu add relu pooling 
+avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 23.151, val_ler = 0.044, avg_val_cost = 23.151, avg_val_ler = 0.044
