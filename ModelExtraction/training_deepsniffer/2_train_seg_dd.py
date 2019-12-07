@@ -244,7 +244,7 @@ def run_ctc(log_dir, args):
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--base_dir', default=os.getcwd())
-    parser.add_argument('--input', default='training_data/test_complete/train.txt')
+    parser.add_argument('--input', default='../dataset/training_randomgraphs/train.txt')
     parser.add_argument('--model', default='first_seg_ctc_v3_dd_norm_complete')
     parser.add_argument('--hparams', default='',
         help='Hyperparameter overrides as a comma-separated list of name=value pairs')

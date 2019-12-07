@@ -33,7 +33,7 @@ class Attack():
         succ_iter = torch.zeros(image_arr.shape[0])
         
         if model_name == 'true_resnet':
-            model1 = resnet18('./checkpoint_true_resnet/models/fake0_res18.pth.tar')
+            model1 = resnet18('./checkpoint_true_resnet/models/true_res18_v1.pth.tar')
             model2 = resnet18('./checkpoint_true_resnet/models/true_res18_v2.pth.tar')
             model3 = resnet18('./checkpoint_true_resnet/models/true_res18_v3.pth.tar')
             model4 = resnet18('./checkpoint_true_resnet/models/true_res18_v4.pth.tar')
@@ -66,18 +66,11 @@ class Attack():
             model4 = densenet201('checkpoint/densenet201_web.pth.tar').cuda()
             models = [model1.cuda(), model2.cuda(), model3.cuda(), model4.cuda()]
 
-        elif model_name == 'our':
-            model1 = fake_1('checkpoint_substitute/fake1_v1.pth.tar').cuda()
-            model2 = fake_1('checkpoint_substitute/fake1_20181107.pth.tar').cuda()
-            model3 = fake_2('checkpoint_substitute/fake2.pth.tar').cuda()
-            model4 = fake_3('checkpoint_substitute/fake3.pth.tar').cuda()
-            models = [model1.cuda(), model2.cuda(), model3.cuda(), model4.cuda()]
-
-        elif model_name == 'our2':
-            model1 = fake_1('checkpoint_substitute/fake1_v1.pth.tar').cuda()
-            model2 = fake_4('checkpoint_substitute/fake4.pth.tar').cuda()
-            model3 = fake_2('checkpoint_substitute/fake2.pth.tar').cuda()
-            model4 = fake_5('checkpoint_substitute/fake5.pth.tar').cuda()
+        elif model_name == 'deepsniffer':
+            model1 = fake_1('checkpoint_deepsniffer/fake1_v1.pth.tar').cuda()
+            model2 = fake_4('checkpoint_deepsniffer/fake4.pth.tar').cuda()
+            model3 = fake_2('checkpoint_deepsniffer/fake2.pth.tar').cuda()
+            model4 = fake_5('checkpoint_deepsniffer/fake5.pth.tar').cuda()
             models = [model1.cuda(), model2.cuda(), model3.cuda(), model4.cuda()]
 
         diff_succ = 0.0
@@ -180,7 +173,7 @@ class Attack():
 def main():
 
     #model_name = sys.argv[1]
-    model_list_name = ['our','our2','vgg','resnet','mix','densenet']
+    model_list_name = ['deepsniffer','vgg','resnet','mix','densenet']
     #model_list_name = ['our2']
     #model_list_name = ['true_resnet']
     attack = Attack()

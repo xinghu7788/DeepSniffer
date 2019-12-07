@@ -1,0 +1,31 @@
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 20:18:03.683]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-06 20:18:03.683]  Loading training data from: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/training_data/test_complete/train.txt
+[2019-12-06 20:18:03.683]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 20:23:27.728]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-06 20:23:27.728]  Loading training data from: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/../dataset/training_randomgraphs/train.txt
+[2019-12-06 20:23:27.728]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-06 20:23:29.201]  Starting new training run
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 20:23:53.725]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-06 20:23:53.725]  Loading training data from: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/../dataset/training_randomgraphs/train.txt
+[2019-12-06 20:23:53.725]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-06 20:23:55.179]  Starting new training run
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 22:08:22.065]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-06 22:08:22.065]  Loading training data from: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/training_deepsniffer/../dataset/training_randomgraphs/train.txt
+[2019-12-06 22:08:22.065]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-06 22:08:23.523]  Starting new training run
