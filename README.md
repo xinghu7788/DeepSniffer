@@ -19,4 +19,8 @@ This project comprises of two parts: 1) Model extraction part: we provide the so
 * **Scripts**: To train the layer sequence predictor for model extraction, run /DeepSniffer/ModelExtraction/scripts/train_predictor.sh. The trained model is in the directory of /DeepSniffer/ModelExtraction/training_deepsniffer and training log is under the model checkpoint file directory.
 
 ## Adversarial Attack with DeepSniffer
-We show an example of adversarial attack on ResNet18 network (Golden model). We compare the scenarios 
+We show an example of targeted adversarial attack on ResNet18 (Golden model). DeepSniffer adopts the extracted neural network architecture to build the substitute models. For comparison, the baseline examines the substitute models established from following networks: VGG family, ResNet family, DenseNet family, SqueezeNet, and Inception.
+
+To reproduce the results of Table6, run python DeepSniffer/AdversarialAttack/AdversarialAttack.py. To reproduce the results of Figure 10, run python DeepSniffer/AdversarialAttack/auto_attack_labels_random.py. 
+
+
