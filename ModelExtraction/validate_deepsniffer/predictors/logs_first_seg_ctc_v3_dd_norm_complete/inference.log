@@ -1024,3 +1024,50 @@ Starting new training run
 -----------------------------------------------------------------
 [2019-12-05 16:13:03.065]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
 [2019-12-05 16:13:03.065]  Using model: first_seg_ctc_v3_dd_norm_complete
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:18:15.725]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-08 22:18:15.725]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-08 22:18:17.151]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-08 22:18:17.268]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-08 22:18:17.293]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-08 22:18:17.316]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-08 22:18:17.338]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-08 22:18:17.362]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-08 22:18:17.390]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-08 22:18:17.416]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-08 22:18:17.441]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-08 22:18:17.466]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-08 22:18:17.490]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-08 22:18:17.513]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 23:25:53.818]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-08 23:25:53.818]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-08 23:25:55.286]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-08 23:25:55.399]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 89.644, val_ler = 0.200, avg_val_cost = 89.644, avg_val_ler = 0.200
+[2019-12-08 23:25:55.422]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 146.108, val_ler = 0.213, avg_val_cost = 117.876, avg_val_ler = 0.206
+[2019-12-08 23:25:55.444]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 104.103, val_ler = 0.188, avg_val_cost = 113.285, avg_val_ler = 0.200
+[2019-12-08 23:25:55.462]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 158.774, val_ler = 0.324, avg_val_cost = 124.657, avg_val_ler = 0.231
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:37.781]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt
+[2019-12-09 00:24:37.781]  Using model: first_seg_ctc_v3_dd_norm_complete
+[2019-12-09 00:24:39.223]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3_dd_norm_complete/model.ckpt-39
+[2019-12-09 00:24:39.341]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 128.854, val_ler = 0.237, avg_val_cost = 128.854, avg_val_ler = 0.237
+[2019-12-09 00:24:39.367]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 68.702, val_ler = 0.150, avg_val_cost = 98.778, avg_val_ler = 0.194
+[2019-12-09 00:24:39.390]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 92.941, val_ler = 0.175, avg_val_cost = 96.832, avg_val_ler = 0.188
+[2019-12-09 00:24:39.412]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 90.561, val_ler = 0.175, avg_val_cost = 95.264, avg_val_ler = 0.184
+[2019-12-09 00:24:39.435]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 98.616, val_ler = 0.188, avg_val_cost = 95.935, avg_val_ler = 0.185
+[2019-12-09 00:24:39.458]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 36.187, val_ler = 0.075, avg_val_cost = 85.977, avg_val_ler = 0.167
+[2019-12-09 00:24:39.479]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 51.892, val_ler = 0.087, avg_val_cost = 81.108, avg_val_ler = 0.155
+[2019-12-09 00:24:39.501]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 26.392, val_ler = 0.087, avg_val_cost = 74.268, avg_val_ler = 0.147
+[2019-12-09 00:24:39.523]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 76.958, val_ler = 0.162, avg_val_cost = 74.567, avg_val_ler = 0.149
+[2019-12-09 00:24:39.545]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 54.117, val_ler = 0.125, avg_val_cost = 72.522, avg_val_ler = 0.146
+[2019-12-09 00:24:39.567]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 57.140, val_ler = 0.125, avg_val_cost = 71.124, avg_val_ler = 0.144

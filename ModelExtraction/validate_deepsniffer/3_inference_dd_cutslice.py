@@ -64,7 +64,7 @@ def next_infer_batch_meta(feats_filename, segs_filename,labels_filename, start_m
         #    op_.append(unknownop)   # for the unknown op
 
     #targets = np.array(targets)
-    print('input :??????????????????????', train_inputs.shape)
+    #print('input :??????????????????????', train_inputs.shape)
     return train_inputs, train_targets_sparse, train_seq_len, op_list
 
 def next_infer_batch(sample_file, label_file):
@@ -256,7 +256,7 @@ def main():
     os.environ['TF_CPP_MIN_LOG_LEVEL'] = str(args.tf_log_level)
     run_name = args.model
 
-    log_dir = os.path.join(args.base_dir, 'logs_%s' % run_name)
+    log_dir = os.path.join(args.base_dir, 'predictors/logs_%s' % run_name)
     os.makedirs(log_dir, exist_ok=True)
     infolog.init(os.path.join(log_dir, 'inference.log'), run_name)
     #hparams.parse(args.hparams) #FIXME

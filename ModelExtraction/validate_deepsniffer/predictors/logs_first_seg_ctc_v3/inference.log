@@ -1,0 +1,194 @@
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:35:13.018]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3/model.ckpt
+[2018-07-25 22:35:13.019]  Using model: first_seg_ctc_v3
+[2018-07-25 22:35:18.582]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3/model.ckpt-83
+[2018-07-25 22:35:19.031]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 31.815, val_ler = 0.262, avg_val_cost = 31.815, avg_val_ler = 0.262
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2018-07-25 22:37:33.223]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3/model.ckpt
+[2018-07-25 22:37:33.223]  Using model: first_seg_ctc_v3
+[2018-07-25 22:37:38.802]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3/model.ckpt-83
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:16:39.397]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-04 11:16:39.398]  Using model: first_seg_ctc_v3
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-04 11:17:08.145]  Checkpoint path: /home/xhu/Security/NN_Extraction/pyFile_complete/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-04 11:17:08.145]  Using model: first_seg_ctc_v3
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-05 16:18:19.112]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-05 16:18:19.112]  Using model: first_seg_ctc_v3
+[2019-12-05 16:18:20.555]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-05 16:18:20.840]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 64.465, val_ler = 0.067, avg_val_cost = 64.465, avg_val_ler = 0.067
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 10:01:06.555]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-06 10:01:06.555]  Using model: first_seg_ctc_v3
+[2019-12-06 10:01:08.008]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-06 10:01:08.134]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 12.162, val_ler = 0.269, avg_val_cost = 12.162, avg_val_ler = 0.269
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 10:10:27.339]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-06 10:10:27.339]  Using model: first_seg_ctc_v3
+[2019-12-06 10:10:28.818]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-06 10:10:28.926]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.357, val_ler = 0.029, avg_val_cost = 3.357, avg_val_ler = 0.029
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 10:25:12.165]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-06 10:25:12.165]  Using model: first_seg_ctc_v3
+[2019-12-06 10:25:13.611]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt-83
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-06 10:26:22.158]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-06 10:26:22.158]  Using model: first_seg_ctc_v3
+[2019-12-06 10:26:23.589]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-06 10:26:23.717]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 30.138, val_ler = 0.040, avg_val_cost = 30.138, avg_val_ler = 0.040
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:17:48.080]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:17:48.080]  Using model: first_seg_ctc_v3
+[2019-12-08 22:17:49.536]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:17:49.647]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.357, val_ler = 0.029, avg_val_cost = 3.357, avg_val_ler = 0.029
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:17:51.477]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:17:51.477]  Using model: first_seg_ctc_v3
+[2019-12-08 22:17:52.936]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:17:53.049]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.309, val_ler = 0.025, avg_val_cost = 3.309, avg_val_ler = 0.025
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:17:54.887]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:17:54.887]  Using model: first_seg_ctc_v3
+[2019-12-08 22:17:56.319]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:17:56.435]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.739, val_ler = 0.020, avg_val_cost = 3.739, avg_val_ler = 0.020
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:17:58.285]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:17:58.285]  Using model: first_seg_ctc_v3
+[2019-12-08 22:17:59.701]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:17:59.847]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.130, val_ler = 0.017, avg_val_cost = 3.130, avg_val_ler = 0.017
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:18:01.809]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:18:01.809]  Using model: first_seg_ctc_v3
+[2019-12-08 22:18:03.251]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:18:03.362]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 23.151, val_ler = 0.044, avg_val_cost = 23.151, avg_val_ler = 0.044
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:18:05.150]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:18:05.150]  Using model: first_seg_ctc_v3
+[2019-12-08 22:18:06.625]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:18:06.754]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 30.138, val_ler = 0.040, avg_val_cost = 30.138, avg_val_ler = 0.040
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:18:08.565]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:18:08.565]  Using model: first_seg_ctc_v3
+[2019-12-08 22:18:10.012]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:18:10.247]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 64.465, val_ler = 0.067, avg_val_cost = 64.465, avg_val_ler = 0.067
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-08 22:18:12.103]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-08 22:18:12.103]  Using model: first_seg_ctc_v3
+[2019-12-08 22:18:13.527]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-08 22:18:13.871]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 111.242, val_ler = 0.068, avg_val_cost = 111.242, avg_val_ler = 0.068
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:10.497]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:10.497]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:11.920]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:12.023]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.357, val_ler = 0.029, avg_val_cost = 3.357, avg_val_ler = 0.029
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:13.820]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:13.820]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:15.263]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:15.374]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.309, val_ler = 0.025, avg_val_cost = 3.309, avg_val_ler = 0.025
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:17.122]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:17.122]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:18.564]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:18.682]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.739, val_ler = 0.020, avg_val_cost = 3.739, avg_val_ler = 0.020
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:20.481]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:20.481]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:21.915]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:22.035]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 3.130, val_ler = 0.017, avg_val_cost = 3.130, avg_val_ler = 0.017
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:24.027]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:24.027]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:25.487]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:25.641]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 23.151, val_ler = 0.044, avg_val_cost = 23.151, avg_val_ler = 0.044
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:27.418]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:27.418]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:28.842]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:28.971]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 30.138, val_ler = 0.040, avg_val_cost = 30.138, avg_val_ler = 0.040
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:30.705]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:30.705]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:32.131]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:32.348]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 64.465, val_ler = 0.067, avg_val_cost = 64.465, avg_val_ler = 0.067
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 00:24:34.196]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt
+[2019-12-09 00:24:34.196]  Using model: first_seg_ctc_v3
+[2019-12-09 00:24:35.615]  Resuming from checkpoint: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/validate_deepsniffer/predictors/logs_first_seg_ctc_v3/model.ckpt-83
+[2019-12-09 00:24:35.932]  avg_train_cost = 0.000, avg_train_ler = 0.000, val_cost = 111.242, val_ler = 0.068, avg_val_cost = 111.242, avg_val_ler = 0.068
