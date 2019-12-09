@@ -5,7 +5,7 @@ DeepSniffer is a model extraction framework that predicts the model architecture
 2) Download the model checkpoint files from the google drive.
 # Workflow
 This project comprises of two parts: 1) Model extraction part: we provide the source code and data set for training and testing the layer sequence predictor which is the fundamental step for model extraction. 
-2) Adversarial attack part: In the further step, we also provide the source code and trained substitute model checkpoints to evaluate the effectiveness of the extracted models on adversarial attacks. 
+2) Adversarial attack example: In the further step, we also provide the source code and trained substitute model checkpoints to evaluate the effectiveness of the extracted models on adversarial attacks. 
 ## Model Extraction
 #### Layer Sequence Predictor Inference 
 * **Predictors**: We provide the trained layer sequence predictor in /DeepSniffer/ModelExtraction/validate_deepsniffer/models， which can be used for predicting the layer sequence of the victim models with their architecture hints. 
