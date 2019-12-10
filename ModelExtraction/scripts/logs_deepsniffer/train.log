@@ -1,0 +1,8 @@
+
+-----------------------------------------------------------------
+Starting new training run
+-----------------------------------------------------------------
+[2019-12-09 23:20:55.931]  Checkpoint path: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/scripts/logs_deepsniffer/model.ckpt
+[2019-12-09 23:20:55.931]  Loading training data from: /home/xhu/Security/NN_Extraction/DeepSniffer/ModelExtraction/scripts/../dataset/training_randomgraphs/train.txt
+[2019-12-09 23:20:55.931]  Using model: deepsniffer
+[2019-12-09 23:20:57.770]  Starting new training run

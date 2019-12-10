@@ -1,2 +1,5 @@
-python ../training_deepsniffer/2_train_seg_dd.py
-cp ..training_deepsniffer/logs_first_seg_ctc_v3_dd_norm_complete/train.log ../../Results/Results/Figure6/logs/sequence_predictor.log
+cd ../training_deepsniffer
+ckpt_name="deepsniffer" 
+python 2_train_seg_dd.py --model $ckpt_name
+log_dir="logs_$ckpt_name"
+cp $log_dir/train.log ../../Results/Figure6/logs/sequence_predictor.log

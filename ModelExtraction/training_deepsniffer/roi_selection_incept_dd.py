@@ -16,15 +16,11 @@ def transform_dd(train_inputs, train_targets,seg_table):
         index = int(seg_table[i])
         if train_targets[i] == incept_op:
             dd[index]=incept_dd
-            print("#####################HERE THE CONCAT######################")
         elif train_targets[i] == add_op:
             dd[index]=add_dd
-            print("xxxxxxxxxxxxxxxxxxxxxHere the add is xxxxxxxxxxxxxxxxxxxxx")
         #print(dd[i])
     temp = train_inputs[0]
-    print("before stack",temp.shape, dd.shape)
     train_inputs_t = np.column_stack((temp,dd))
-    print("after stack")
     #np.insert(train_inputs, 5, values=dd, axis=1)
     #train_inputs=np.c_[train_inputs,dd]
     #print(train_inputs_t)

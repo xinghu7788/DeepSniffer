@@ -178,7 +178,8 @@ def main():
     #model_list_name = ['true_resnet']
     attack = Attack()
     history_list = []
-    random.seed(1)
+    #random.seed(1)
+    random.seed(78)
     for temporal in range(1,51):
         org_target = random.randint(1, 998)
         if org_target in history_list:
