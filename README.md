@@ -8,7 +8,7 @@ This project comprises of two parts: 1) Model extraction part: we provide the so
 2) Adversarial attack example: In the further step, we also provide the source code and trained substitute model checkpoints to evaluate the effectiveness of the extracted models on adversarial attacks. 
 ## Model Extraction
 #### Layer Sequence Predictor Inference 
-* **Predictors**: We provide the trained layer sequence predictor in /DeepSniffer/ModelExtraction/validate_deepsniffer/models， which can be used for predicting the layer sequence of the victim models with their architecture hints. 
+* **Predictors**: We provide the trained layer sequence predictor in /DeepSniffer/ModelExtraction/validate_deepsniffer/predictors， which can be used for predicting the layer sequence of the victim models with their architecture hints. 
 * **Dataset**: We provide architecture hint feature file of several commonly-used DNN models (profiling on K40), in the following directory: DeepSniffer/ModelExtraction/dataset/typicalModels.
 * **Scripts**: To infer the layer sequence of these victim models, run 
 DeepSniffer/ModelExtraction/scripts/.infer_predictor_typicalmodels.sh. The results log files are stored in DeepSniffer/Results/Table4/logs.
@@ -23,6 +23,8 @@ DeepSniffer/ModelExtraction/scripts/.infer_predictor_typicalmodels.sh. The resul
 ## Adversarial Attack with DeepSniffer
 We show an example of targeted adversarial attack on ResNet18 (Golden model). DeepSniffer adopts the extracted neural network architecture to build the substitute models. For comparison, the baseline examines the substitute models established from following networks: VGG family, ResNet family, DenseNet family, SqueezeNet, and Inception.
 
+* **Substitute model checkpoints**: The checkpoints for the trained substitute model can be downloaded from [google drive](https://drive.google.com/drive/folders/1JrTkT9C0klWFMK4x-KSMqvvPJ7k3TL6U?usp=sharing). Unzip the files in the ''models'' to the directory of  DeepSniffer/AdversarialAttack/. 
+* **Datasets**: We provide a smaller dataset from ImageNet for adversarial attack experiments, which can be downloaded from [google drive](https://drive.google.com/drive/folders/1JrTkT9C0klWFMK4x-KSMqvvPJ7k3TL6U?usp=sharing). Unzip the files in ''data_100'' under the directory of DeepSniffer/AdversarialAttack/data_100. 
 To reproduce the results of Table6, run python DeepSniffer/AdversarialAttack/AdversarialAttack.py. To reproduce the results of Figure 10, run python DeepSniffer/AdversarialAttack/auto_attack_labels_random.py. 
 
 
