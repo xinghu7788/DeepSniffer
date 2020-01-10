@@ -11,7 +11,7 @@ This project comprises of two parts: 1) Model extraction part: we provide the so
 * **Predictors**: We provide the trained layer sequence predictor in /DeepSniffer/ModelExtraction/validate_deepsniffer/predictors， which can be used for predicting the layer sequence of the victim models with their architecture hints. 
 * **Dataset**: We provide architecture hint feature file of several commonly-used DNN models (profiling on K40), in the following directory: DeepSniffer/ModelExtraction/dataset/typicalModels.
 * **Scripts**: To infer the layer sequence of these victim models, run 
-DeepSniffer/ModelExtraction/scripts/.infer_predictor_typicalmodels.sh. The results log files are stored in DeepSniffer/Results/Table4/logs. Run DeepSniffer/Results/Table4/logs/results_analysis.py to display the final prediction error rate results.
+DeepSniffer/ModelExtraction/scripts/.infer_predictor_typicalmodels.sh. The results log files are stored in DeepSniffer/Results/Table4/logs. Run DeepSniffer/Results/Table4/results_analysis.py to display the final prediction error rate results.
 
 #### Layer Sequence Predictor Training
 * **Dateset**: We randomly generate computational graphs and profile the GPU performance counter information (kernel latency, read volume, write volume) during their execution to train the layer sequence predictor. The training and testing dataset is in the following directory: DeepSniffer/ModelExtraction/dataset/training_randomgraphs.
