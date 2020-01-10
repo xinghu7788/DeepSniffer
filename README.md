@@ -28,3 +28,6 @@ We show an example of targeted adversarial attack on ResNet18 (Golden model). De
 To reproduce the results of Table6, run python DeepSniffer/AdversarialAttack/AdversarialAttack.py. To reproduce the results of Figure 10, run python DeepSniffer/AdversarialAttack/auto_attack_labels_random.py. 
 
 
+**If you have any questions, please feel free to open issue in this project. Thanks!**
+
+
