@@ -158,7 +158,7 @@ class Attack():
         
         str_log = 'src: ' + str(org_target) + '\ttar: ' + str(target)+ '\ttotal: ' + str(i + 1) + '\tsuccess: ' + str(self.succ) + '\tavg iter: ' + str(torch.mean(succ_iter).item()) + '\tdiff_suc: ' + str(diff_succ) + '\tdif_total: ' + str(diff_all) 
         print(str_log)
-        str_filename = './rebuttle_result/' + model_name + '.log'
+        str_filename = './attack_result/' + model_name + '.log'
         f = open(str_filename, "a")
         f.write(str_log)
         f.write("\n")
@@ -187,7 +187,8 @@ def main():
             continue
         attack_target = (org_target + 5)%999
         history_list.append(temporal)
-        print(temporal, attack_target)
+        print("###Round", temporal, "  original_label:", org_target, "  target_label:", attack_target)
+        #print(temporal, attack_target)
         for model_name in model_list_name:
             attack.ensemble_attack1(model_name, attack_target, org_target)
             
