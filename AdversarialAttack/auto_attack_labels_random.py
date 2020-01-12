@@ -105,7 +105,7 @@ class Attack():
         succ_iter = torch.zeros(self.image_arr.shape[0])
         model_name = model_name_list[0] + ' '+ model_name_list[1] + ' ' + model_name_list[2] + ' ' + model_name_list[3] + '\t'
         self.succ = 0
-	image_number = 50
+        image_number = 50
 
         #for i in range(self.image_arr.shape[0]):
         for i in range(image_number):
@@ -176,14 +176,13 @@ class Attack():
                         succ_label[i] = 1
                         print('succ: ' + str(self.succ))
                     break
-	self.succ=self.succ/image_number
-        str_log = model_name + '\t' + 'total: ' + str(i + 1) + '\tsuccess: ' + str(self.succ) + '\tavg iter: ' + str(torch.mean(succ_iter).item())
+        self.succ=self.succ/image_number
+        str_log = model_name + '\t' + 'total: ' + str(i + 1) + '\tavg iter: ' + str(torch.mean(succ_iter).item()) + '\tsuccess: ' + str(self.succ) 
         print(str_log)
         f = open("demofile_random.txt", "a")
         f.write(str_log)
         f.write("\n")
-        torch.save({'org_label': org_label, 'attack_label': attack_label, 'succ_label': succ_label, 'succ_iter': succ_iter},
-                   './result_100/' + model_name + '_' + str(int(org_label[0].item())) +  '_' + str(target) + '.pth.tar')
+        #torch.save({'org_label': org_label, 'attack_label': attack_label, 'succ_label': succ_label, 'succ_iter': succ_iter},'./result_100/' + model_name + '_' + str(int(org_label[0].item())) +  '_' + str(target) + '.pth.tar')
         self.succ = 0
         
 
