@@ -29,8 +29,8 @@ We show an example of targeted adversarial attack on ResNet18 (Golden model). De
 2) To reproduce the results of Figure 10, run ```python auto_attack_labels_random.py 750 245 ```. 
     where 750 and 245 is the source label and the 245 is the target label. You can change them as you need.
 
-* **Results**: The log files of attack results locate in DeepSniffer/AdversarialAttack/attack_result/, run ```python parser_ae.py``` to display the attack success rate of different substitute models.
-If you would like to reproduce the results of Figure 10, run "python auto_attack_labels_random.py 750 245". The attack results are shown in demofile_random.txt in the same directory (DeepSniffer/AdversarialAttack/), including the attack results of 100 randomly-ensembled substitute models.
+* **Results**: The log files of attack results locate in DeepSniffer/AdversarialAttack/attack_result/, go to the directory and run ```python parser_ae.py``` to display the attack success rate of different substitute models.
+If you would like to reproduce the results of Figure 10, run "python auto_attack_labels_random.py 750 245". The attack results are shown in demofile_random.txt in the same directory (DeepSniffer/AdversarialAttack/), including the attack results of 50 randomly-ensembled substitute models.
 
 
 **If you have any questions, please feel free to open issue in this project. Thanks!**
