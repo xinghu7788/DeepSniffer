@@ -6,7 +6,7 @@ import torch.nn.functional as F
 from models import *
 import sys
 import random
-
+import argparse
 
 victim_model = resnet18('checkpoint/resnet18_web.pth.tar').cuda()
 
@@ -180,7 +180,11 @@ def main():
     history_list = []
     #random.seed(1)
     random.seed(78)
-    for temporal in range(1,51):
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--iter_number', default=20)
+    args = parser.parse_args()
+    iter_max = args.iter_number
+    for temporal in range(1,iter_max):
         org_target = random.randint(1, 998)
         if org_target in history_list:
             temporal = temporal - 1
@@ -193,13 +197,6 @@ def main():
             attack.ensemble_attack1(model_name, attack_target, org_target)
             
                 
-    #attack.ensemble_attack1(model_list_name,attack_target)
-    #parser = argparse.ArgumentParser()
-    #parser.add_argument('--base_dir', default=os.getcwd())
-    #parser.add_argument('--input', default='sample_generator/test_sample_data')
-    #args = parser.parse_args()
-    #record_kernels(args)
-    #print(unknown_kernel_dict)
 
 if __name__ == '__main__':
     main()
