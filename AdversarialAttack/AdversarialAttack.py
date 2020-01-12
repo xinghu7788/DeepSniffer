@@ -183,15 +183,15 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--iter_number', default=20)
     args = parser.parse_args()
-    iter_max = args.iter_number
-    for temporal in range(1,iter_max):
+    iter_max = int(args.iter_number)
+    for temporal in range(1,iter_max+1):
         org_target = random.randint(1, 998)
         if org_target in history_list:
             temporal = temporal - 1
             continue
         attack_target = (org_target + 5)%999
         history_list.append(temporal)
-        print("###Round", temporal, "  original_label:", org_target, "  target_label:", attack_target)
+        print("###Round", temporal, "  src_label:", org_target-1, "  target_label:", attack_target)
         #print(temporal, attack_target)
         for model_name in model_list_name:
             attack.ensemble_attack1(model_name, attack_target, org_target)
