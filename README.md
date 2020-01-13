@@ -25,9 +25,8 @@ We show an example of targeted adversarial attack on ResNet18 (Golden model). De
 
 * **Substitute model checkpoints**: The checkpoints for the trained substitute model can be downloaded from [google drive](https://drive.google.com/drive/folders/1JrTkT9C0klWFMK4x-KSMqvvPJ7k3TL6U?usp=sharing). Unzip the files in the ''models'' to the directory of  DeepSniffer/AdversarialAttack/. 
 * **Datasets**: We provide a smaller dataset from ImageNet for adversarial attack experiments, which can be downloaded from [google drive](https://drive.google.com/drive/folders/1JrTkT9C0klWFMK4x-KSMqvvPJ7k3TL6U?usp=sharing). Unzip the files in ''data_100'' under the directory of DeepSniffer/AdversarialAttack/data_100. 
-1) To reproduce the results of Table6, go to the directory of DeepSniffer/AdversarialAttack/ and run ```python AdversarialAttack.py --iter_number=20 ``` , where iter_number indicates how many iterations (In every iteration, 100 image examples are being adversarial attack) you would like to run.
-2) To reproduce the results of Figure 10, run ```python auto_attack_labels_random.py 750 245 ```. 
-    where 750 and 245 is the source label and the 245 is the target label. You can change them as you need.
+* **Workflow**: To reproduce the results of Table6, go to the directory of DeepSniffer/AdversarialAttack/ and run ```python AdversarialAttack.py --iter_number=20 ``` , where iter_number indicates how many iterations (In every iteration, 100 image examples are being adversarial attack) you would like to run.
+If you would like to validate more cases with random selected substitute models (to reproduce the results of Figure 10), run ```python auto_attack_labels_random.py 750 245 ```, where 750 and 245 is the source label and the 245 is the target label. You can change them as you need.
 
 * **Results**: The log files of attack results locate in DeepSniffer/AdversarialAttack/attack_result/, go to the directory and run ```python parser_ae.py``` to display the attack success rate of different substitute models.
 If you would like to reproduce the results of Figure 10, run "python auto_attack_labels_random.py 750 245". The attack results are shown in demofile_random.txt in the same directory (DeepSniffer/AdversarialAttack/), including the attack results of 50 randomly-ensembled substitute models.
